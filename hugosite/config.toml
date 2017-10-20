@@ -1,0 +1,4 @@
+baseURL = "http://darrenlyons.me/"
+languageCode = "en-us"
+title = "Darren Lyons"
+theme = "ananke"
