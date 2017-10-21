@@ -2,11 +2,9 @@
 
 # To Do:
 1. Domain
- * Configure darrenlyons.me to point at S3
  * Redirect www.
 
 2. Website content
- * Migrate posts
  * About me
 
 # How to:
