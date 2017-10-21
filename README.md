@@ -1,6 +1,6 @@
 # darrenjl.github.io
 
-To Do:
+# To Do:
 1. Domain
 ⋅⋅* Configure darrenlyons.me to point at S3
 ⋅⋅* Redirect www.
@@ -8,6 +8,12 @@ To Do:
 2. Website content
 ⋅⋅* Migrate posts
 ⋅⋅* About me
+
+# How to:
+* Test locally: **npm build server**
+* Build: **npm build build**
+* Deploy to S3: **npm build deploy**
+...* requires AWS cli to be configured, see tutorial listed below for more details.
 
 # Useful links:
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
