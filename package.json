@@ -1,0 +1,21 @@
+{
+  "name": "darrenjl.github.io",
+  "version": "1.0.0",
+  "description": "The following tutorial was very helpful in deploying my site to S3: https://agop.me/post/https-enabled-portfolio-hugo-s3-cloudfront.html",
+  "main": "index.js",
+  "scripts": {
+      "server": "hugo server -w -v",
+      "build": "hugo -v",
+      "deploy": "aws s3 sync public/ s3://darrenlyons.me/ --delete"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenjl/darrenjl.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenjl/darrenjl.github.io/issues"
+  },
+  "homepage": "https://github.com/darrenjl/darrenjl.github.io#readme"
+}
