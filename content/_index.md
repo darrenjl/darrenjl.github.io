@@ -1,6 +1,6 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Darren Lyons"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: '"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to my blog where I share my thoughts on technology, leadership, personal development and anything else that I think might help people.

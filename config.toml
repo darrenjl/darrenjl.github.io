@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "I hope to help people learn"
+  description = ""
   facebook = ""
   twitter = "https://twitter.com/darren_lyons"
   instagram = ""
