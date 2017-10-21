@@ -16,5 +16,6 @@
  * requires AWS cli to be configured, see tutorial listed below for more details.
 
 # Useful links:
-* Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* Markdown Cheatsheet: http://assemble.io/docs/Cheatsheet-Markdown.html
+* Markdown renderer: http://markdownlivepreview.com/
 * The following tutorial was very helpful in deploying my site to S3: https://agop.me/post/https-enabled-portfolio-hugo-s3-cloudfront.html
