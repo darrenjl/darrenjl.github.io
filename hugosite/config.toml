@@ -2,3 +2,28 @@ baseURL = "http://darrenlyons.me/"
 languageCode = "en-us"
 title = "Darren Lyons"
 theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "I hope to help people learn"
+  facebook = ""
+  twitter = "https://twitter.com/darren_lyons"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/darrenjl"
+  linkedin = "https://www.linkedin.com/in/darrenlyons/"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "dark-blue"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
