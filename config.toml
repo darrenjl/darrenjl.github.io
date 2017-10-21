@@ -1,4 +1,4 @@
-baseURL = "https://s3-ap-southeast-2.amazonaws.com/darrenlyons.me/"
+baseURL = "https://www.darrenlyons.me/"
 languageCode = "en-us"
 title = "Darren Lyons"
 theme = "ananke"
