@@ -1,6 +1,6 @@
 ---
 title: "5 Effective Ways to Learn New Skills"
-date: 2017-10-21T18:33:01+11:00
+date: 2017-09-26T12:00:00+11:00
 featured_image: "/images/5-Effective-Ways-to-Learn-New-Skills.jpg"
 tags: ["personal development"]
 ---
