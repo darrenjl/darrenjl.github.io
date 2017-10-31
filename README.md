@@ -11,9 +11,9 @@
 
 
 # How to:
-* Test locally: **npm build server**
-* Build: **npm build build**
-* Deploy to S3: **npm build deploy**
+* Test locally: **npm run server**
+* Build: **npm run build**
+* Deploy to S3: **npm run deploy**
     * requires AWS cli to be configured, see tutorial listed below for more details.
 
 # Useful links:
