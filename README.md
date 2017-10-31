@@ -15,6 +15,8 @@
 * Build: **npm run build**
 * Deploy to S3: **npm run deploy**
     * requires AWS cli to be configured, see tutorial listed below for more details.
+* Optimise images with **open -a ImageOptim .**
+    * Need to install https://imageoptim.com/command-line.html
 
 # Useful links:
 * Markdown Cheatsheet: http://assemble.io/docs/Cheatsheet-Markdown.html
