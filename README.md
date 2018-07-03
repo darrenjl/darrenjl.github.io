@@ -1,16 +1,11 @@
 # Source code for https://www.darrenlyons.me hosted on AWS S3
 
-# To Do:
-1. Domain
-    * Redirect www.
-
-2. Website content
-    * About me
-
-3. Auto deploy to S3 on commit using AWS tools such as CodeCommit, CodeBuild etc.
-
-
 # How to:
+* Clone this project: **git clone https://github.com/darrenjl/darrenlyons.me**
+* Clone submodule
+    * **cd themes/ananke**
+    * **git submodule init**
+    * **git submodule update**
 * Test locally: **npm run server**
 * Build: **npm run build**
 * Deploy to S3: **npm run deploy**
