@@ -6,9 +6,15 @@ menu: "main"
 ---
 
 # INTRO
+Below is a collection of topics with associated guides and references that I found particularly useful when making my transition from a software engineer to a team lead. This was always intended to be a private document but when mentoring people in my team transitioning into leadership positions I shared this and received the feedback that it was useful. I'm sharing now in the hope that it can be useful to others as well.
+
+This is a living document which I aim to  continuously update when I find new and interesting things so the content and structure will change over time.
+
+I'm experimenting with structuring the topics around the four guiding principles of modern agile as they really resonate with me.
 
 <img src="/images/playbook/modern_agile_wheel_english.svg" alt="Modern Agile" style="width: 300px" />
 
+*(Source -  http://modernagile.org/)*
 
 # MAKE PEOPLE AWESOME
 > "Tend to the people, and they will tend to the business" - *John Maxwell*
