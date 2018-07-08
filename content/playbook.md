@@ -17,6 +17,23 @@ I'm experimenting with structuring the topics around the four guiding principles
 
 *(Source -  http://modernagile.org/)*
 
+## Future topics
+
+- Make people awesome
+  - Coaching
+  - Career development plans
+  - Happiness at work
+  - Formal performance management
+  - Mindfulness
+  - Conflict mediation
+  - Productivity
+  - Personal & professional brand
+  - Facilitation
+  - Visual design of boards
+- Experiment & learn rapidly
+  - Hypothesis driven delivery with constant customer validation
+  - Co-creation
+
 # MAKE PEOPLE AWESOME
 
 > "In modern agile we ask how we can make people in our ecosystem awesome. This includes the people who use, make, buy, sell or fund our products or services. We learn their context and pain points, what holds them back and what they aspire to achieve. How can we make them awesome?"
@@ -35,7 +52,7 @@ My One Liner: to help the team deliver meaningful work effectively and be as hap
 
 *(Source -  http://firstround.com/review/this-is-what-impactful-engineering-leadership-looks-like/)*
 
-#### Areas/Responsibilities
+#### Areas/responsibilities
 
 People
 
@@ -148,6 +165,12 @@ For more information about AI, please visit The Center for Appreciative Inquiry 
 
 *(Source - https://jjeong524.wordpress.com/2015/04/25/appreciative-inquiry/)*
 
+#### Emotional intelligence
+
+<img src="/images/playbook/EQ.png" alt="Radical Candor" style="width: 600px" />
+
+*(Source - https://hbr.org/2017/02/emotional-intelligence-has-12-elements-which-do-you-need-to-work-on)*
+
 #### Radical candor
 
 <img src="/images/playbook/radical-candor.gif" alt="Radical Candor" style="width: 300px" />
@@ -157,7 +180,46 @@ For more information about AI, please visit The Center for Appreciative Inquiry 
 
 7 Levels of Delegation: https://management30.com/practice/delegation-board/
 
-## Grow others
+## Grow team members
+
+### Understand people
+
+It is important to understand the differt personality types people on your team have so that you can tailor your approach to suit each individual.
+
+#### OCEAN
+This is a nice simple personality theory that you can apply to yourself or others.
+
+> "OCEAN: openness to experience, conscientiousness, extroversion, agreeableness, and neuroticism. You can go through each to see if you or someone else ranks high or low for each category. In doing so, you can make better connections and improve your people skills."
+
+*(Source - https://my.happify.com/hd/how-the-big-5-personality-theory-can-help-understand-others/?et=8ba29817-8921-441a-9cfe-6e6a16e0f719)*
+
+### Help people grow
+
+#### Growth mindset
+
+https://agileleanlife.com/kaizen-growth-mindset-continuous-improvement/
+http://blog.idonethis.com/spotify-growth-mindset/
+
+#### Fostering a growth mindset
+
+https://www.psychologytoday.com/blog/passive-aggressive-diaries/201112/fostering-growth-mindset-7-ways-nurture-your-gifted-child
+
+### Feedback
+
+#### Feedback models
+
+Dan North description: https://vimeo.com/172711357
+
+#### Peer feedback exercises
+
+http://toolbox.hyperisland.com/principles-of-effective-feedback
+http://toolbox.hyperisland.com/feedback-i-appreciate
+
+### Catchups
+
+https://getlighthouse.com/blog/one-on-one-meeting-template-great-leaders/
+https://www.quora.com/What-are-some-good-tips-for-1-1s-with-your-employees-Whats-the-best-way-to-give-them-both-positive-and-negative-feedback
+http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
 
 # MAKE SAFETY A PREREQUISITE
 
