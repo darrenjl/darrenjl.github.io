@@ -2,6 +2,7 @@
 title: "About"
 description: "All about me"
 featured_image: '/images/liam-pozz-325640.jpg'
+draft: true
 ---
 
 
