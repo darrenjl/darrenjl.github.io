@@ -13,7 +13,7 @@ This is a living document which I aim to  continuously update when I find new an
 
 I'm experimenting with structuring the topics around the four guiding principles of modern agile as they really resonate with me.
 
-<img src="/images/playbook/modern_agile_wheel_english.svg" alt="Modern Agile" style="width: 300px" />
+<img src="/images/playbook/modern_agile_wheel_english.svg" alt="Modern Agile" style="width: 600px" />
 
 *(Source -  http://modernagile.org/)*
 
@@ -30,6 +30,7 @@ I'm experimenting with structuring the topics around the four guiding principles
   - Personal & professional brand
   - Facilitation
   - Visual design of boards
+  - Interviewing
 - Experiment & learn rapidly
   - Hypothesis driven delivery with constant customer validation
   - Co-creation
@@ -141,7 +142,7 @@ Further reading - https://www.dca.org.au/dca-research/building-inclusion---an-ev
 
 *(Source - https://designthinking.ideo.com/)*
 
-<img src="/images/playbook/design_thinking_101.png" alt="Design Thinking 101" style="width: 300px" />
+<img src="/images/playbook/design_thinking_101.png" alt="Design Thinking 101" style="width: 600px" />
 *(Source - https://www.nngroup.com/articles/design-thinking/)*
 
 #### Data-driven leadership
@@ -173,7 +174,7 @@ For more information about AI, please visit The Center for Appreciative Inquiry 
 
 #### Radical candor
 
-<img src="/images/playbook/radical-candor.gif" alt="Radical Candor" style="width: 300px" />
+<img src="/images/playbook/radical-candor.gif" alt="Radical Candor" style="width: 600px" />
 *(Source - https://www.radicalcandor.com/about-radical-candor/)*
 
 #### Delegation
@@ -204,22 +205,135 @@ http://blog.idonethis.com/spotify-growth-mindset/
 
 https://www.psychologytoday.com/blog/passive-aggressive-diaries/201112/fostering-growth-mindset-7-ways-nurture-your-gifted-child
 
-### Feedback
+#### Feedback
 
-#### Feedback models
+##### Feedback models
 
 Dan North description: https://vimeo.com/172711357
 
-#### Peer feedback exercises
+##### Peer feedback exercises
 
 http://toolbox.hyperisland.com/principles-of-effective-feedback
 http://toolbox.hyperisland.com/feedback-i-appreciate
 
-### Catchups
+#### Catchups
 
 https://getlighthouse.com/blog/one-on-one-meeting-template-great-leaders/
 https://www.quora.com/What-are-some-good-tips-for-1-1s-with-your-employees-Whats-the-best-way-to-give-them-both-positive-and-negative-feedback
 http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/
+
+#### Motivation
+
+##### Drive by Daniel Pink
+
+###### Sketch note
+
+<img src="/images/playbook/drive-summary.jpg" alt="Drive by Dan Pink" style="width: 600px" />
+*(Source - https://twitter.com/lynnecazaly)*
+
+#### Performance management
+
+Start by setting expectations with clear performance criteria.
+Continuously observe and provide effective feedback early and often. Don’t forget to provide positive constructive feedback, at least 4 times more than negative constructive feedback.
+
+## Grow the team
+
+### Hiring great people
+
+> “It’s all about finding and hiring people smarter than you. Getting them to join your business. And giving them good work. Then getting out of their way. And trusting them. You have to get out of the way so YOU can focus on the bigger vision. That’s important. And here’s the main thing….you must make them see their work as a MISSION.” - *Richard Branson*
+
+*(Source - http://www.mindvalleyinsights.com/a-conversation-with-richard-branson/)*
+
+Google re:Work – Hiring: https://rework.withgoogle.com/subjects/hiring/
+
+You Suck at Technical Interviews: http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews
+
+US Department of Veterans Affairs Performance Based Interviewing Questions (recommended in Work Rules): https://www.va.gov/PBI/questions.asp
+
+#### Diverse hiring
+
+Project Include – Hiring
+How Atlassian Uses Data to Attract More Qualified and Diverse Graduate Candidates: https://hros.co/case-study-upload/how-atlassian-uses-data-to-attract-more-qualified-and-diverse-graduate-candidates
+
+- Particularly this tool: https://quiz.weirdlyhub.com/quiz/atlassian/value-alignment
+
+### Building great teams
+
+#### re:Work
+
+<img src="/images/playbook/google-effective-teams.png" alt="Successful teams" style="width: 600px" />
+
+>Here are some tips for managers and leaders to support the behaviors the Google researchers found important for effective teams. These are based on external research and Google’s own experience:
+>
+- Psychological safety:
+  - Solicit input and opinions from the group.
+  -  Share information about personal and work style preferences, and encourage others to do the same.
+  - Watch Amy Edmondson's TED Talk on psychological safety.
+- Dependability:
+  - Clarify roles and responsibilities of team members.
+  - Develop concrete project plans to provide transparency into every individual’s work.
+  - Talk about some of the conscientiousness research.
+- Structure & Clarity:
+  - Regularly communicate team goals and ensure team members understand the plan for achieving them.
+  - Ensure your team meetings have a clear agenda and designated leader.
+  - Consider adopting Objectives & Key Results (OKRs) to organize the team’s work.
+- Meaning:
+  - Give team members positive feedback on something outstanding they are doing and offer to help them with something they struggle with.
+  - Publicly express your gratitude for someone who helped you out.
+  - Read the KPMG case study on purpose.
+- Impact:
+  - Co-create a clear vision that reinforces how each team member’s work  directly contributes to the team’s and broader organization's goals.
+  - Reflect on the work you're doing and how it impacts users or clients and the organization.
+  - Adopt a user-centered evaluation method and focus on the user.
+
+*(Source - https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)*
+
+### New team checklist
+
+This is a non-exhaustive checklist I use when setting up a new team:
+
+- Personnel
+  - Head count
+  - Desired characteristics
+- Equipment
+- Location
+- Work tracking board
+- Other tracking tools such as confluence & jira
+- Important ceremonies scheduled
+  - Team kickstart
+  - Product delivery framework sessions - discovery etc.
+  - Catch ups
+  - Planning (Adhoc?)
+  - Retrospectives
+  - Stand ups
+  - Demo
+  - Learning and knowledge sharing
+
+### Team kickstart
+
+#### Get to know each other
+
+- Journey line/two truths one lie: http://brendanmarsh.com/agile/bootstrapping-an-agile-team-part-1-people/
+- Mob programming exercise
+  - Black jack
+- Role expectations
+- Social contract
+- Team lunch
+- Escape room
+- OKR discussion
+
+### Social Contract
+http://smallville.com.au/build-high-performing-team-using-social-contract/
+
+### Retrospectives
+Thoughtworks 7 step agenda to an effective retrospective: https://www.thoughtworks.com/insights/blog/7-step-agenda-effective-retrospective
+
+### Health Checks
+https://labs.spotify.com/2014/09/16/squad-health-check-model/
+https://www.atlassian.com/team-playbook/health-monitor/project-teams
+
+
+
 
 # MAKE SAFETY A PREREQUISITE
 
