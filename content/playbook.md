@@ -7,7 +7,7 @@ menu: "main"
 
 # INTRO
 
-Below is a collection of topics with associated guides and references that I found particularly useful when making my transition from a software engineer to a team lead. This was always intended to be a private document but when mentoring people in my team transitioning into leadership positions I shared this and received the feedback that it was useful. I'm sharing now in the hope that it can be useful to others as well.
+Below is a collection of topics with associated guides and references that I found particularly useful when making my transition from a software engineer to a team lead. Some are just links and some have a summary or my own thoughts included. This was always intended to be a private document but when mentoring people in my team transitioning into leadership positions I shared this and received feedback that it was very useful. I'm sharing now in the hope that it can be useful to others as well.
 
 This is a living document which I aim to  continuously update when I find new and interesting things so the content and structure will change over time.
 
@@ -448,6 +448,35 @@ He reports that the company’s leaders attribute most of its success to these n
 
 9. **“Manage the Rising Expectations”** – Google’s leaders encourage staffers to pursue their own ideas. Consequently, Bock explains, it has closed some programs, some after years of effort and significant cost. Recently, it curtailed the number of projects staffers can work on simultaneously. Bock covers the concern that Google may create a sense of entitlement by offering generous life and work benefits. Spoiled Google employees might even revolt when management takes something away. For example, he relates, when it changed the menus in two cafés to observe “Meatless Mondays,” some employees threw food at the chefs and posted threatening chats. Rather than fire these employees, Google shares anonymous details of their tantrums with their co-workers. Bock is proud that Google consistently puts principles above profits. To protect its values of trust and transparency, it immediately fires anyone who leaks privileged information for any reason, even by accident. So, if you wonder if Bock’s book tells any tales out of school, that should answer your question.
 
+### Diversity & inclusion
+
+Why it’s important and how to improve
+
+https://kateheddleston.com/blog/improving-diversity-does-not-mean-lowering-the-bar
+
+https://www.theglobeandmail.com/report-on-business/small-business/talent/when-equality-feels-like-discrimination/article35296485/
+
+https://rework.withgoogle.com/subjects/unbiasing/
+
+https://tech.co/fuel-inclusion-workplace-2017-06
+
+### Organisational goals
+
+#### Objectives and key results (OKRs)
+> OKRs at a glance:
+Objectives are ambitious and may feel somewhat uncomfortable
+Key results are measurable and should be easy to grade with a number (Google uses a scale of 0 – 1.0)
+OKRs are public so that everyone in the organization can see what others are working on
+The “sweet spot” for an OKR grade is 60% – 70%; if someone consistently fully attains their objectives, their OKRs aren’t ambitious enough and they need to think bigger
+Low grades should be viewed as data to help refine the next OKRs
+OKRs are not synonymous with employee evaluations
+OKRs are not a shared to-do list
+
+*(Source - https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)*
+
+## Focus on the customer
+
+Engineering involvement in customer research: https://www.thoughtworks.com/insights/blog/dev-dogfooding-not-user-research?utm_campaign=approaches&utm_medium=social&utm_source=linkedin
 
 
 # MAKE SAFETY A PREREQUISITE
@@ -455,6 +484,10 @@ He reports that the company’s leaders attribute most of its success to these n
 >"Safety is both a basic human need and a key to unlocking high performance. We actively make safety a prerequisite by establishing safety before engaging in any hazardous work. We protect people’s time, information, reputation, money, health and relationships. And we endeavor to make our collaborations, products and services resilient and safe."
 
 *(Source - http://modernagile.org/)*
+
+## Foster psychological safety
+
+This guide says it best: https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/
 
 # EXPERIMENT & LEARN RAPIDLY
 
