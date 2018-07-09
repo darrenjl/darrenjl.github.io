@@ -333,6 +333,121 @@ https://labs.spotify.com/2014/09/16/squad-health-check-model/
 https://www.atlassian.com/team-playbook/health-monitor/project-teams
 
 
+## Grow the organisation
+
+### Culture & people operations
+70% of our time is spent in work why shouldn’t it be amazing.
+
+#### External inspiration
+##### Netflix
+
+https://jobs.netflix.com/culture
+
+How to fix your company culture - recode decode podcast - Patty McCord, chief talent officer from Netflix:
+https://itunes.apple.com/au/podcast/recode-decode-hosted-by-kara-swisher/id1011668648?mt=2&i=1000399321005
+
+Notes:
+
+- Behaviour we currently see as opposed to aspirational values - write it down - that’s the culture deck. It’s not that innovative - just true.
+- People are smart adults, why do they need to get permission for leave, expenses etc. They should be/are responsible for that in the personal life, why not in their work life. Keep track of what’s being done not how much time people spend at work. Give people bach the power.
+- You can’t tolerate misbehaviour, you don’t need rules to do that. Leadership/HR need to lead by example.
+- It's not about the 8 different kinds of craft beer, what's fun at work is successfully completing hard projects with a team of great people.
+
+##### MindValley
+
+http://www.mindvalley.com/culture.html
+
+How To Transform Your Company Culture And Attract Brilliant Talent - Helsinki’s 925 Festival of Work: https://www.youtube.com/watch?v=X1dmVox38_w
+
+Notes:
+
+Culture hacking - what makes people want to work for a company
+
+- Growth - develop & learn
+  - “Leadership is recognising that we are all ONE. That every person you lead is as brilliant as you, as talented as you, and has the same capacity for growth and accomplishment. They simply need to be reminded of this fact” => Leaders goal is to groom other leaders
+  - Total access to education
+    - Delicious library - software based books, can buy any book you want
+    - Learn and share meetings every week - teach what you’ve learnt
+    - Learn day - first Friday of every month. Can teach others a skill you have or just read a book. Just work for yourself and others, not the company
+    - Zig Ziglar - “Name every attribute of the perfect employee”. He got a group of executives to come up with 114 attributes - it ended up that 107 were attitude based attributes not skill => hire for attitude, train for skill
+  - Groups get together to plan marathons etc., growth doesn’t just apply to work skills
+- Happiness - jump out of bed excited to go to work
+  - Most important factor in determining peak performers
+  - Doctors make accurate diagnosis 19% faster when happy
+  - The happiness advantage - Shawn Achor
+  - Social support has the highest correlation to happiness => Social Activities every few days
+  - Social support also creates friendships which leads to more engagement - gallup
+  - Richard Branson says every company plan should include lots and lots of parties
+  - Every 2 weeks $1000 budget to organise a party based on someone's culture
+  - Good to Great - people loved what they did because they loved who they did it with
+  - Rethink the water cooler - architecture and internal design, comfort corners, guitar
+  - Start a positivity contagion - positive people improve performance of all those around them
+    - Whole department dedicated to creating a little weirdness SPLASH - Secret society for platonic love, appreciation, smiles and happiness
+    - E.g. Big box in reception with the message - “Do not open until 4:45pm, Love SPLASH”, Tache & Heels day
+    - Leaders should choose to walk in with a smile engagement, positivity, optimism is contagious
+  - Inject a little love
+    - Culture of hugs, fist bumps etc. NO HANDSHAKES
+  - Setting goals
+    - M.T.O Goal setting - Raymond Aaron
+      - Minimum, Target, Outrageous - 3 numbers
+      - Minimum is important because there is no need to feel bad if you hit your minimum
+      -If you don’t hit it they have a 60 second timer for people to feel bad then it’s back to smiles
+- Abundance - lead a life where you feel rich
+  - Pay 10% above market rate but there are other ways to make people feel abundant
+  - 5 star workplace
+  - Flexitime - 4 weeks paid holiday, choose when you want to work, no 9-5
+  - Profit sharing - about 10%
+  - Entrepreneurship but we want to keep their talent so mindvalley will invest in your idea - 20% of mindvalley revenues
+- Significance - feeling important
+  - MindValley 1up emporium - software to praise each other - 12000 love letters exchanged so far - work.com
+  - Like flowers flourish on water, people flourish on praise
+  - Give compliments and praise often
+    - Daily email or in-person
+  - Control over one’s environment
+    - Employees vote for company values
+  - Team retreats - 5 star paradise island, 3 days of bonding and brainstorming
+    - Hack your department - brainstorm, one idea per department, proposal, winner has to be enacted
+    - Hack the business - form different teams, ideas are made into a new business
+  - Monthly ask sessions - like TyroAsk!
+  - Hacking your life - The 3 most important questions, bucket list for experiences, growth and contribution to the world, goes on a public board, support people in their personal goals - “My supervisor at work seems to care for me as a person”
+  - Awesomeness report
+    - Gratitude
+      - Celebrate victories, gamification of work - superhero character prizes, bell of awesomeness, people/Teams have a smart number - metrics driven
+      - Celebrate employees - mount the puppy
+    - Visualise the future
+      - Meditate and visualise
+- Meaning
+  - The problem with most people is that their problems aren’t big enough
+  - Have a good company mission
+  - Give back to your society
+
+##### Google
+
+<img src="/images/playbook/work-rules.jpg" alt="Work Rules book cover" style="width: 300px" />
+*(Source - https://www.workrules.net/)*
+
+Work rules carefully outlines the nine personnel rules Google follows.
+
+He reports that the company’s leaders attribute most of its success to these nine axioms:
+
+1. **“Give your work meaning”** – Google’s culture pursues “mission, transparency and voice.” It believes employees who love their work lead happier, healthier lives. It gives people the freedom to be their best, knowing they will act like founders, not employees and, as a result, they’ll preserve and enhance Google’s culture. Bock shares its higher purpose by including stories about how staffers have helped people and how Google arranges them to meet consumers they benefit.
+
+2. **“Trust your people”** – Google values information transparency. Bock says it trustingly gives new employees access to its “code base” and proprietary algorithms on their first day. Sharing information helps Google coordinate projects and reduce redundancy. The company encourages employees’ ideas, complaints and suggestions. Leaders deliberately give staff members more freedom and autonomy than they – the leaders – feel comfortable giving. Page and Brin believe that if managers aren’t nervous, they haven’t granted their employees sufficient autonomy.
+
+3. **“Hire only people who are better than you”** – Bock asserts that Google’s most critical personnel function is hiring, and that’s where it spends the majority of its HR budget. This is his bailiwick, and you can appreciate his inside perspective in this discussion. Google hires one-quarter of 1% of its millions of applicants. In contrast, Harvard University takes in a little more than 6%. If you want to work at Google, then head for State U. since Google prefers to hire exceptional state college graduates above grads from good or even top Ivy League schools. Its priority is exceptional past performance and cultural fit. Bock knows the best candidates don’t apply; they’re already busy in jobs they like. Google finds and tracks top talent using common tools like LinkedIn. Don’t get spooked, but it follows people for months or even years, building relationships and deepening its potential talent pools. When hiring, Google tests candidates for intelligence, leadership and “conscientiousness.” The process, Bock says, is designed to eliminate bias; candidates interview with four different managers who ask the same or similar job-related, situational questions. Google doesn’t let managers pick new hires for their teams, fire people, or bestow raises and promotions. As Bock clarifies, these limits strip managers of coercive power.
+
+4. **“Don’t confuse development with managing performance”** – Google’s managers work with their employees to create clear, measurable and aggressive goals. Bock looks inside performance reviews, where managers propose a rating based on each employee’s personal progress in meeting planned goals. A committee of managers looks at all the employees in the group and makes the final “calibration.” Employees nominate themselves for promotions, and a committee decides who moves up. Google offers training courses in specific skills and knowledge. However, as Bock makes clear, it doesn’t provide classes in a vacuum. Instead, it tracks the outcomes of its training efforts. Google employees with expertise instruct other staffers. Google maintains a stable of experts for one-on-one coaching in career planning, leadership and sales.
+
+5. **“Focus on the two tails”** – Google focuses on its bottom 5% and top 5% of performers. Leaders work to move lower performers up to average performance. Bock says Google learns what drives superior performance by studying its best workers, and uses its findings to assist low performers and hire better people. Employees also rate managers, who – though it doesn’t sound like much fun – meet with their teams after seeing their evaluations to discuss how to improve.
+
+6. **“Be frugal and generous”** – Bock catalogs Google’s benefits, including free food, free shuttles, time off to dabble, electric cars for employees to borrow and on-site subsidized day care. Low-cost benefits include Employee Resource Groups, tech talks, on-site haircuts, dry cleaning and massage chairs. Bock says the company’s calculus is that Google reaps returns – in staff goodwill, loyalty and retention – that neutralize the cost of benefits such as fully paid maternity leave and spousal death benefits. Perks encourage serendipitous encounters among people who wouldn’t otherwise connect. Bock reports that Google encourages employees to form groups around various topics, work-related or not, and to invite speakers – many famous – to lead discussions on subjects from yoga to Game of Thrones.
+
+7. **“Pay unfairly”** – Before its IPO in 2004, Google paid most people below market rates. Bock explains that it distributed stock options – and still does – to all Google employees, offering a significant payout, even wealth. After its IPO, Google raised its base pay and set up cash and stock incentive programs, such as its “Founders Award,” to mimic a start-up’s atmosphere of potential gains. Google employees sometimes request cash and stock, but, Bock notes, these awards have only a small impact on motivation and happiness. Experience-related perks are the most popular benefits. Bock acknowledges that two people at the same level can have a tenfold pay difference. Google rewards performance and results; on average, top talents earn two or three times more than low performers.
+
+8. **“Nudge”** – Google uses subtle cues, tips, checklists and suggestions (or as Richard H. Thaler and Cass R. Sunstein called them, “nudges”) to encourage people to make healthier, more effective choices. For example, Bock says, rather than ban unhealthy food options in its cafés, Google moved such items to the periphery, putting healthy choices and small plates at eye level in convenient places. To increase the impact of its onboarding program, Google sends detailed emails to managers about new hires, called “Nooglers.” The emails include best-practice checklists about how to engage and support new people from day one. Nooglers get a similar checklist with actions to take to accelerate acclimation. But, Bock explains, before Google makes changes, it tests them in small groups.
+
+9. **“Manage the Rising Expectations”** – Google’s leaders encourage staffers to pursue their own ideas. Consequently, Bock explains, it has closed some programs, some after years of effort and significant cost. Recently, it curtailed the number of projects staffers can work on simultaneously. Bock covers the concern that Google may create a sense of entitlement by offering generous life and work benefits. Spoiled Google employees might even revolt when management takes something away. For example, he relates, when it changed the menus in two cafés to observe “Meatless Mondays,” some employees threw food at the chefs and posted threatening chats. Rather than fire these employees, Google shares anonymous details of their tantrums with their co-workers. Bock is proud that Google consistently puts principles above profits. To protect its values of trust and transparency, it immediately fires anyone who leaks privileged information for any reason, even by accident. So, if you wonder if Bock’s book tells any tales out of school, that should answer your question.
+
 
 
 # MAKE SAFETY A PREREQUISITE
