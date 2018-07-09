@@ -489,16 +489,99 @@ Engineering involvement in customer research: https://www.thoughtworks.com/insig
 
 This guide says it best: https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/
 
+# DELIVER VALUE CONTINUOUSLY
+
+>"Anything that isn’t delivered isn’t helping anyone become more awesome or safe. In modern agile we ask ourselves, “How could valuable work be delivered faster?” Delivering value continuously requires us to divide larger amounts of value into smaller pieces that may be delivered safely now rather than later."
+
+*(Source - http://modernagile.org/)*
+
+## Agile
+
+I like Atlassian’s articles on Agile: https://www.atlassian.com/agile
+
+This is also a good read: https://hackernoon.com/agile-makes-no-sense-c8ebbf971012
+
+### Values
+>**Individuals and interactions** over processes and tools
+
+>**Working software** over comprehensive documentation
+
+>**Customer collaboration** over contract negotiation
+
+>**Responding to change** over following a plan
+
+*That is, while there is value in the items on
+the right, we value the items on the left more.*
+*(Source - http://agilemanifesto.org/)*
+
+### Principles
+
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a  preference to the shorter timescale.
+
+4. Business people and developers must work together daily throughout the project.
+
+5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+
+6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+
+7. Working software is the primary measure of progress.
+
+8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+9. Continuous attention to technical excellence and good design enhances agility.
+
+10. Simplicity--the art of maximizing the amount of work not done--is essential.
+
+*(Source - http://agilemanifesto.org/principles.html)*
+
+### Extreme programming
+
+Values | Principles | Practices
+--- | --- | ---
+- Communication | - Humanity | - Sit together
+- Simplicity | - Economics | - Whole team
+- Feedback | - Mutual benefit | - Informative workspace
+- Courage | - Self-similarity | - Energized work
+- Respect | - Improvement | - Pair programming
+ | - Diversity | - Stories
+ | - Reflection | - Weekly cycle
+ | - Flow | - Quarterly cycle
+ | - Opportunity | - Slack
+ | - Redundancy | - 10 minute build
+ | - Failure | - Continuous integration
+ | - Quality | - Test First programming
+ | - Baby steps | - Incremental Design
+ | - Accepted responsibility |
+
+ *(Source - Extreme programming explained by Kent Beck: https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)*
+
+### Kanban
+
+A nice description of Kanban from Atlassian - https://www.atlassian.com/agile/kanban
+
+## Planning
+This is a blog post I previously wrote on the topic of planning: https://www.darrenlyons.me/post/how-to-plan-your-first-feature.html
+
 # EXPERIMENT & LEARN RAPIDLY
 
 >"You can’t make people awesome or make safety a prerequisite if you aren’t learning. We learn rapidly by experimenting frequently. We make our experiments “safe to fail” so we are not afraid to conduct more experiments. When we get stuck or aren’t learning enough, we take it as a sign that we need to learn more by running more experiments."
 
 *(Source - http://modernagile.org/)*
 
-# DELIVER VALUE CONTINUOUSLY
+## Lean startup
 
->"Anything that isn’t delivered isn’t helping anyone become more awesome or safe. In modern agile we ask ourselves, “How could valuable work be delivered faster?” Delivering value continuously requires us to divide larger amounts of value into smaller pieces that may be delivered safely now rather than later."
+The lean startup is the best book I've come across so far on the topic of experimenting and learning rapidly.
 
-*(Source - http://modernagile.org/)*
+<img src="/images/playbook/lean-startup.jpg" alt="Lean startup book cover" style="width: 600px" />
+
+*(Source -  https://www.amazon.com.au/Lean-Startup-Eric-Ries/dp/0307887898)*
+
+# A FINAL QUOTE
+>Any sufficiently advanced technology is indistinguishable from magic - *Arthur C Clarke*
+
 
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@elifrancis?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Eli Francis"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Feature image by Eli Francis</span></a>
