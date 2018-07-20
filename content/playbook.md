@@ -211,6 +211,12 @@ https://www.psychologytoday.com/blog/passive-aggressive-diaries/201112/fostering
 
 Dan North description: https://vimeo.com/172711357
 
+When delivering feedback always structure it around the three common elements SBI (situation, behaviour, impact). The level of trust you have with the person will decide what approach to use:
+
+- Porpoise - only positive regard feedback to encourage that behaviour - low level of trust/new team - assume everything else will self correct
+- Sandwich - specific positive regard (I care, I notice), growing edge (improvement), general positive regard
+- Atkins feedback - sandwich without the bread - growing edge only - high trust
+
 ##### Peer feedback exercises
 
 http://toolbox.hyperisland.com/principles-of-effective-feedback
@@ -495,6 +501,23 @@ This guide says it best: https://rework.withgoogle.com/guides/understanding-team
 
 *(Source - http://modernagile.org/)*
 
+## Delivery/project management
+
+https://www.liquidplanner.com/blog/5-considerations-for-managing-large-it-projects/
+https://www.cio.com/article/3280928/leadership-management/modern-development-part-2-five-pillars-for-transformative-success.html
+
+### Agile v Waterfall
+
+https://www.susannemadsen.co.uk/blog/agile-or-waterfall-8-tips-to-help-you-decide
+https://www.liquidplanner.com/blog/agile-v-waterfall-which-project-management-style-is-right-for-you/
+https://www.cio.com/article/3278045/leadership-management/modern-development-part-1-a-transformative-pov-for-the-business.html
+
+
+## The trade off
+
+<img src="/images/playbook/right_thing_V_build_it_right.png" alt="The trade off" style="width: 600px" />
+*(Source - https://www.iancarroll.com/2015/02/12/in-the-pursuit-of-effectiveness/)*
+
 ## Agile
 
 I like Atlassian’s articles on Agile: https://www.atlassian.com/agile
@@ -563,8 +586,17 @@ Values | Principles | Practices
 
 A nice description of Kanban from Atlassian - https://www.atlassian.com/agile/kanban
 
+## Lean
+http://www.disciplinedagiledelivery.com/lean-principles/
+
 ## Planning
 This is a blog post I previously wrote on the topic of planning: https://www.darrenlyons.me/post/how-to-plan-your-first-feature.html
+
+### Story mapping
+https://jpattonassociates.com/user-story-mapping/
+
+### Impact mapping
+https://www.impactmapping.org/example.html
 
 # EXPERIMENT & LEARN RAPIDLY
 
@@ -576,12 +608,14 @@ This is a blog post I previously wrote on the topic of planning: https://www.dar
 
 The lean startup is the best book I've come across so far on the topic of experimenting and learning rapidly.
 
+### Hypothesis driven development
+https://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/
+
 <img src="/images/playbook/lean-startup.jpg" alt="Lean startup book cover" style="width: 600px" />
 
 *(Source -  https://www.amazon.com.au/Lean-Startup-Eric-Ries/dp/0307887898)*
 
 # A FINAL QUOTE
 >Any sufficiently advanced technology is indistinguishable from magic - *Arthur C Clarke*
-
 
 <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@elifrancis?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Eli Francis"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Feature image by Eli Francis</span></a>
